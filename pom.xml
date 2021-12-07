@@ -250,7 +250,6 @@
                         <testTarget>${javaTestSource}</testTarget>
                         <source>${javaSource}</source>
                         <target>${javaSource}</target>
-                    	<fork>true</fork>
                     </configuration>
                 </plugin>
 
